@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sekKerfBang
 - 👀 I’m interested in le developpement Web et Mobile
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning django and laravel
 - 💞️ I’m looking to collaborate all community of github
 - 📫 How to reach me par  email: kerfala789@gmail.com
 - 😄 Pronouns:...
